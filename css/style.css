@@ -275,7 +275,7 @@ footer {
 	left: 0;
 	overflow: hidden;
 	padding: 5px 20px;
-	position: absolute;
+	position: fixed;
 	right: 0;
 }
 div.foot{
