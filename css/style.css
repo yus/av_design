@@ -274,7 +274,11 @@ footer {
 	bottom: 0;
 	left: 0;
 	overflow: hidden;
+<<<<<<< HEAD
 	padding: 10px 0 0;
+=======
+	padding: 5px 20px;
+>>>>>>> 6112995478983b77f179e509ae3b143ded417436
 	position: fixed;
 	right: 0;
 }
